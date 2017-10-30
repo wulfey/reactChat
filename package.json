@@ -1,0 +1,30 @@
+{
+  "name": "jw-chat",
+  "version": "1.0.0",
+  "description": "Testbed for a react chat environment and crypto tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wulfey",
+    "chat",
+    "crypto"
+  ],
+  "author": "wulfey",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.18.0",
+    "concurrently": "^3.5.0",
+    "cookie-session": "^1.3.1",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11",
+    "nodemon": "^1.12.0",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^1.0.0",
+    "path-parser": "^2.0.2",
+    "request": "^2.82.0"
+  }
+}
